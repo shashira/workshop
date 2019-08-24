@@ -9,6 +9,10 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
 end
 
+source "https://https://viit-vignite.ml/workshop/"
+
+gem "github-pages", group: :jekyll_plugins
+
 git_source(:github) {|repo_name| "https://github.com/oscvizag/workshop}" }
 
 # gem "rails"
