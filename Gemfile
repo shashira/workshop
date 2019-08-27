@@ -1,21 +1,7 @@
 # frozen_string_literal: true
-title: GitHub Workshop
-email: education@github.com
-description: > # Find your local campus expert and keep up with their activities.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://viit-vignite.ml/workshop" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  saibhaskar24
 
+gem "minima", "~> 2.0"
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - bin
-  - vendor
-  - node_modules
-
-  
     
 source 'https://rubygems.org'
 
