@@ -7,7 +7,16 @@ url: "https://viit-vignite.ml/workshop" # the base hostname & protocol for your 
 github_username:  saibhaskar24
 
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - bin
+  - vendor
+  - node_modules
 
+  
+    
 source 'https://rubygems.org'
 
 gem "github-pages", group: :jekyll_plugins
