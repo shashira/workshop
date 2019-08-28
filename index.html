@@ -6,10 +6,11 @@ title: Home
 <h2>Contributers</h2>
 <ul>
     {% for author in site.authors %}
-      <li>
+      <div class="card">
         <h2>{{ author.name }}</h2>
         <p>{{ author.position }}</p>
         <p>{{ author.content | markdownify }}</p>
-      </li>
+      </div>
     {% endfor %}
+        
   </ul>
