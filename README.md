@@ -11,20 +11,22 @@ Create a new file
 with `youname.md` 
 
 Paste the content in the file
-`---
+```
+---
 name: //Your name
 position: //Your Position
 ---
-Your discription here`
+Your discription here
+```
 
 Example:
-`
+```
 ---
 name: P Sai Bhaskar
 position: Developer
 ---
 Host of the event
-`
+```
 
 Commit the changes to your branch.
 
