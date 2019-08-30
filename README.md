@@ -3,7 +3,8 @@
 # Introduction
 
 Starter video in [Youtube](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
-GitHub Workshop
+
+# GitHub Hands on Workshop
 
 Fork the repo
 
