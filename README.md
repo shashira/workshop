@@ -35,5 +35,5 @@ Now Create a pull request to master branch.
 Wait for the review.
 
 
-### Link to the presentation: https://docs.google.com/presentation/d/17vpM6r3eGoO7OtbIm2l8t8SGf1M8GYlQ
+### Link to the presentation: [Link](https://drive.google.com/file/d/17vpM6r3eGoO7OtbIm2l8t8SGf1M8GYlQ/view?usp=sharing)
 
